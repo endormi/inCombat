@@ -5,4 +5,5 @@
 ## Version: 0.0.1
 
 hideChat.lua
+hideExpBar.lua
 hideQuests.lua
