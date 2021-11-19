@@ -1,0 +1,7 @@
+## Interface: 90005
+## Title: inCombat
+## Notes: Experimental.
+## Author: Endormi
+## Version: 0.0.1
+
+hideChat.lua
